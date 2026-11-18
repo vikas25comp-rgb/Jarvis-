@@ -1,0 +1,5 @@
+<CodeBlock language="dotenv" editable>
+OPENROUTER_API_KEY=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
+OPENROUTER_MODEL=openrouter/free
+JARVIS_VOICE=true
+</CodeBlock>
